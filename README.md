@@ -1,2 +1,2 @@
 # react-webpack
-React with webpack template
+React with typescipt and webpack boilerplate.
